@@ -1,6 +1,8 @@
 WebGPU Particle Life
 ============
 
+![demo](/gpudemo.gif)
+
 Credit to James Price for the code I based this off of https://jrprice.github.io/NBody-WebGPU/
 
 
@@ -15,3 +17,4 @@ Recompiling after changes:
 
     npx tsc
     npx webpack
+
